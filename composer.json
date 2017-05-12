@@ -1,5 +1,5 @@
 {
-    "name": "iqianfang/yii2wxpay",
+    "name": "hjy2588818/yii2-wxpay",
     "description": "yii2 微信(weixin)即时到帐接口扩展组件",
     "license": "null",
     "authors": [
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "iqianfang\\yii2wxpay\\": ""
+            "hjy2588818/yii2-wxpay\\": ""
         }
     }
 }
